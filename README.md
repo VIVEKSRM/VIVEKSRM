@@ -36,7 +36,6 @@ Passionate about scalable test frameworks, digital transformation, and mentoring
 
 ## 🐙 Mona Gallery
 
-![Test Mona](https://octodex.github.com/images/testocat.jpg)
 ![Surftocat](https://octodex.github.com/images/surftocat.png)
 ![Octobi Wan Catnobi](https://octodex.github.com/images/octobiwan.jpg)
 
