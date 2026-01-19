@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vivek!
 
-![Mona Octocat](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
+![Test Mona](https://octodex.github.com/images/codercat.jpg)
 
 Welcome to my GitHub profile! 🚀  
 I'm a Senior Automation & Quality Engineering Leader passionate about scalable test frameworks and digital transformation.
