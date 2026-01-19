@@ -1,0 +1,16 @@
+# 👋 Hi, I'm Vivek!
+
+![Mona Octocat](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
+
+Welcome to my GitHub profile! 🚀  
+I'm a Senior Automation & Quality Engineering Leader passionate about scalable test frameworks and digital transformation.
+
+## 🔧 Tools & Tech
+- Selenium, RestAssured, Appium
+- AWS, Azure, Docker, Kubernetes
+
+## 📈 Current Goals
+- Building reusable cheat sheets and diagrams
+- Preparing interview-ready Java/Selenium examples
+
+---
